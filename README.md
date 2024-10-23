@@ -1,5 +1,6 @@
 # Bottol Shop
-### Live link https://bottole-shop-juwel-r6.surge.sh/
+### Live link:  https://bottole-shop-juwel-r6.surge.sh/
+### Live link:  https://bottole-shop-react-juwel-r6.netlify.app/
 
 #### Features
 - Loaded all data from in memory json file
