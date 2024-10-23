@@ -1,0 +1,44 @@
+.bottolsContainer{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 2rem;
+}
+
+.bottol{
+    margin-top: 1rem;
+    border: 2px solid gainsboro;
+    padding: 1rem;
+    border-radius: 1rem;
+}
+.bottol-img{
+    width: 300px;
+    border-radius: 1rem;
+}
+.bottolInfo{
+    margin: 0;
+    text-align: left;
+}
+
+
+@media only screen and (max-width: 768px){
+    .bottolsContainer{
+        grid-template-columns: repeat(2, 1fr);
+        gap: 1rem;
+    }
+    
+}
+
+@media only screen and (max-width: 568px){
+    .bottolsContainer{
+        grid-template-columns: repeat(1, 1fr);
+        gap: .5rem;
+    }
+    
+}
+
+.bottolCartImg{
+    width: 60px;
+    margin: 10px;
+    border-radius: 50%;
+    box-shadow: 0 5px 10px;
+}
