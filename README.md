@@ -1,5 +1,5 @@
 # Bottol Shop
-### Live link https://bottol-shopp-react-juwelr6.surge.sh/
+### Live link https://bottole-shop-juwel-r6.surge.sh/
 
 #### Features
 - Loaded all data from in memory json file
